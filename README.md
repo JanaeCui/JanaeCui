@@ -1,9 +1,9 @@
 ### Hello World, I'm Jia Cui 👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://res.cloudinary.com/people-matters/image/upload/fl_immutable_cache,w_624,h_351,q_auto,f_auto/v1586366508/1586366506.jpg" />
 
 
-## I'm a Wife, Developer, Creator!!
+## I'm a Developer, Creator!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my project.
 - 🌱 I’m currently learning React Native and Typescript
